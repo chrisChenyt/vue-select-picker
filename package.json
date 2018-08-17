@@ -1,5 +1,5 @@
 {
-  "name": "vue-month-picker",
+  "name": "vue-time-slide",
   "version": "1.0.0",
   "description": "a picker componemt for vue2.0",
   "main": "index.js",
@@ -12,9 +12,10 @@
   },
   "keywords": [
     "vue2.0",
-    "vue-picker"
+    "vue-picker",
+    "vue-time-slide"
   ],
-  "author": "naice",
+  "author": "chirschen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/chrisChenyt/vue-select-picker/issues"
