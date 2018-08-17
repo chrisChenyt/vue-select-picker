@@ -1,5 +1,5 @@
 {
-  "name": "vue-select-picker",
+  "name": "vue-month-picker",
   "version": "1.0.0",
   "description": "a picker componemt for vue2.0",
   "main": "index.js",
